@@ -1,4 +1,4 @@
-package baseball.scanner;
+package baseball.commandline.scanner;
 
 
 import java.util.Scanner;

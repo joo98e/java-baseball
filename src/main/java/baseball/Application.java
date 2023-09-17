@@ -1,6 +1,6 @@
 package baseball;
 
-import baseball.scanner.InputScanner;
+import baseball.commandline.scanner.InputScanner;
 
 public class Application {
     public static void main(String[] args) {
